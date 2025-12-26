@@ -1,0 +1,8 @@
+{
+  "name": "NicheAtlas",
+  "description": "A professional multi-niche evergreen content site featuring 8 core pillars, an admin dashboard, digital product store, and multilingual support.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
